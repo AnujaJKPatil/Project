@@ -156,7 +156,9 @@ body {
   }
 marquee{
     margin-top: 2%;
-    font-size: 200%;
+    font-size: 20px;
+    height: 35px;
+    padding-top: 12px;
 }  
  
  .h2{
